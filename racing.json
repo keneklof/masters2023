@@ -1,1 +1,12 @@
-
+{
+  "comps": [
+      {
+          "id": "racing",
+          "name": "Räyskälä Masters 2023 - Racing class",
+          "short": "Masters - Racing",
+          "task": "https://www.soaringspot.com/en_gb/purjelennon-sm-kilpailut-2022/results/racing",
+          "colour": "#0074D9"
+      }
+  ],
+  "gliders": "https://raw.githubusercontent.com/keneklof/sm2022/main/glidersRacing"
+}
