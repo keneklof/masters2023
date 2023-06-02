@@ -4,9 +4,9 @@
           "id": "open",
           "name": "Räyskälä Masters 2023 - Open class",
           "short": "Masters - Open",
-          "task": "https://www.soaringspot.com/en_gb/purjelennon-sm-kilpailut-2022/results/avoin",
+          "task": "https://www.soaringspot.com/en_gb/rayskalamasters2023/results/masters-open",
           "colour": "#0074D9"
       }
   ],
-  "gliders": "https://raw.githubusercontent.com/keneklof/sm2022/main/glidersOpen"
+  "gliders": "https://raw.githubusercontent.com/keneklof/masters2023/main/glidersOpen"
 }
