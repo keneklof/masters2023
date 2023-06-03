@@ -4,7 +4,7 @@
           "id": "racing",
           "name": "Räyskälä Masters 2023 - Racing class",
           "short": "Masters - Racing",
-          "task": https://www.soaringspot.com/en_gb/rayskalamasters2023/results/masters-racing",
+          "task": "https://www.soaringspot.com/en_gb/rayskalamasters2023/results/masters-racing",
           "colour": "#0074D9"
       }
   ],
